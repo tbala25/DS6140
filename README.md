@@ -1,2 +1,2 @@
 # DS6140
-Assignments from Machine Learning Course at NEU
+Assignments from DS 6140 Machine Learning at NEU
